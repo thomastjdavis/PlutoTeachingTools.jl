@@ -189,10 +189,10 @@ It has a greater mass, therefore $m$ is larger, this then results in a larger fo
 answer_box(md"""Three""", invite="1+2 = ?")
 
 # ╔═╡ fb4ff876-a668-40ab-8d30-bfaa858849e4
-protip(md"The `CSV.read` function has lots of useful optional arguements.")
+protip(md"The `CSV.read` function has lots of useful optional arguments.")
 
 # ╔═╡ 69a9e9f3-a72e-4935-a200-2842010f1e54
-protip(md"Several of these functions have optional arguements.", invite="Invitation to learn more")
+protip(md"Several of these functions have optional arguments.", invite="Invitation to learn more")
 
 # ╔═╡ 08794ef8-4e10-4913-808e-06ac194625b6
 md"""
